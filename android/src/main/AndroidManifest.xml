@@ -2,7 +2,9 @@
     package="org.devio.rn.splashscreen">
 
     <application
-        android:label="@string/app_name">
+        android:allowBackup="false"
+        android:label="@string/app_name"
+        android:supportsRtl="true">
 
     </application>
 
